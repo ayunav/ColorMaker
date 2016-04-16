@@ -1,6 +1,6 @@
 # ColorMaker
 
-Simple app built in Swift that lets you change the color of the box on the screen by moving sliders. 
+Simple app built in Swift that lets you create different colors by moving sliders on the screen. 
 
 ![ColorMaker app demo](https://github.com/ayunav/ColorMaker/blob/master/ColorMakerDemo.gif)
 
